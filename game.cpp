@@ -2,6 +2,8 @@
 #include<vector>
 bool Game::init()
 {
+
+	//jskdxksakskank
 	//Initialization flag
 	bool success = true;
 
